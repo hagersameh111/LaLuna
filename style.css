@@ -291,13 +291,13 @@ header .fa-bars{
 .pr:hover{
     color: #c8aabd;
 }
-@media (min-width:992px)and(max-width:1200px){
+@media (min-width:991px)and(max-width:1200px){
 
     html{
     font-size: 55%;
    }
     header{
-        padding: 2rem;
+        padding: 1rem;
         
     }
     section{
@@ -330,10 +330,10 @@ header .fa-bars{
       .navbar{
         display: flex;
         align-items: center;
-        justify-content: space-between;
+        
     }
                          }
-@media( max-width:800px){
+@media( max-width:990px){
     header .fa-bars{
         display: block;
     }
