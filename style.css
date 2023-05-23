@@ -171,7 +171,7 @@ header .fa-bars{
 .about .row .slideshow-container{
     padding: 2rem;
     width: 70%;
-   float: right;
+   float: left;
     display: flex;
     height: fit-content;
     max-width: 1000px;
