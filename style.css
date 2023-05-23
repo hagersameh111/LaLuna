@@ -291,7 +291,7 @@ header .fa-bars{
 .pr:hover{
     color: #c8aabd;
 }
-@media (min-width:769px)and(max-width:921px){
+@media (min-width:992px)and(max-width:1200px){
 
     html{
     font-size: 55%;
@@ -333,7 +333,7 @@ header .fa-bars{
         justify-content: space-between;
     }
                          }
-@media( max-width:768px){
+@media( max-width:991px){
     header .fa-bars{
         display: block;
     }
